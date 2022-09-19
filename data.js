@@ -1,0 +1,38 @@
+export default [
+  {
+    id: 1,
+    name: 'عمرو محمود عيد السخاوي',
+    practical: 85,
+    theoretical: 40,
+    E: 15,
+    total: 140,
+    notes: '',
+  },
+  {
+    id: 2,
+    name: 'أحمد وليد الشيشيني',
+    practical: 60,
+    theoretical: 20,
+    E: 30,
+    total: 110,
+    notes: '',
+  },
+  {
+    id: 3,
+    name: 'مصطفي كامل الحايس',
+    practical: 65,
+    theoretical: 40,
+    E: 15,
+    total: 120,
+    notes: '',
+  },
+  {
+    id: 4,
+    name: 'محمد احمد مصطفي سامي',
+    practical: 80,
+    theoretical: 30,
+    E: 30,
+    total: 120,
+    notes: '',
+  },
+];
